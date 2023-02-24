@@ -10,3 +10,4 @@ yarn-error.log
 upload/
 .eslintrc.json
 database
+.env
